@@ -10,3 +10,6 @@ This packge is a graphical user interface, which is more user friend in order to
 - Creating the nodes and elements by clicking and dragging.
 - Saving and loading the structures
 - Editting and removing the nodes and elements
+
+### Models
+There are two models of 2D and 3D structures in order to test the software.
